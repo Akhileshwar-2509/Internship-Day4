@@ -3,7 +3,7 @@
 
 Welcome to the **Myntra Sales Analysis Dashboard** project! This interactive Power BI dashboard provides insights into sales performance, product categories, top-selling brands, and city-wise trends from Myntra's historical data.
 
-![Myntra Banner](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/images/logo.png)
+
 
 ---
 
