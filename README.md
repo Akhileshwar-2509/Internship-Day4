@@ -3,7 +3,7 @@
 
 Welcome to the **Myntra Sales Analysis Dashboard** project! This interactive Power BI dashboard provides insights into sales performance, product categories, top-selling brands, and city-wise trends from Myntra's historical data.
 
-![Myntra Banner](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/images/banner.png)
+![Myntra Banner](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/images/logo.png)
 
 ---
 
@@ -39,20 +39,20 @@ The dashboard was designed using **Microsoft Power BI** with **Excel** as the ba
 ## 🖼️ Dashboard Views
 
 ### 🔹 Overall Dashboard View
-![Overall Dashboard](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/images/final.png)
+![Overall Dashboard](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/Images/final.png)
 
 ### 🔸 Filtered by Category:
-![Category filter](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/images/sales cat.png)
-![Category filter](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/images/sales cat2.png)
+![Category filter](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/Images/sales%20cat.png)
+![Category filter](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/Images/sales%20cat.2.png)
 ---
 
 
-![Revenue by State](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/images/rev state.png)
+
 ### 🔸 Revenue by state:
-![Revenue by State](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/images/rev state.png)
+![Revenue by State](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/Images/rev%20state.png)
 ### 🔸 Revenue by Brand:
-![Revenue by State](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/images/rev brand.png)
-![Revenue by State](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/images/rev brand.2.png)
+![Revenue by State](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/Images/rev%20brand.png)
+![Revenue by State](https://github.com/Akhileshwar-2509/Internship-Day4/blob/main/Images/rev%20brand.2.png)
 ## 📂 Dataset
 
 > The dataset was sourced from [Kaggle] or created synthetically to mimic real-world fashion e-commerce patterns.
