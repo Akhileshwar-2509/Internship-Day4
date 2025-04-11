@@ -39,13 +39,20 @@ The dashboard was designed using **Microsoft Power BI** with **Excel** as the ba
 ## 🖼️ Dashboard Views
 
 ### 🔹 Overall Dashboard View
-![Overall Dashboard](https://github.com/Akhileshwar-2509/Myntra_sales_analysis/blob/main/images/dashboard_main.png)
+![Overall Dashboard](https://github.com/Akhileshwar-2509/Myntra_sales_analysis/blob/main/images/final.png)
 
-### 🔸 Filtered by City: Delhi
-![City Filter - Delhi](https://github.com/Akhileshwar-2509/Myntra_sales_analysis/blob/main/images/dashboard_delhi.png)
-
+### 🔸 Filtered by Category:
+![Category filter](https://github.com/Akhileshwar-2509/Myntra_sales_analysis/blob/main/images/sales cat.png)
+![Category filter](https://github.com/Akhileshwar-2509/Myntra_sales_analysis/blob/main/images/sales cat2.png)
 ---
 
+
+![Revenue by State](https://github.com/Akhileshwar-2509/Myntra_sales_analysis/blob/main/images/rev state.png)
+### 🔸 Revenue by state:
+![Revenue by State](https://github.com/Akhileshwar-2509/Myntra_sales_analysis/blob/main/images/rev state.png)
+### 🔸 Revenue by Brand:
+![Revenue by State](https://github.com/Akhileshwar-2509/Myntra_sales_analysis/blob/main/images/rev brand.png)
+![Revenue by State](https://github.com/Akhileshwar-2509/Myntra_sales_analysis/blob/main/images/rev brand.2.png)
 ## 📂 Dataset
 
 > The dataset was sourced from [Kaggle] or created synthetically to mimic real-world fashion e-commerce patterns.
